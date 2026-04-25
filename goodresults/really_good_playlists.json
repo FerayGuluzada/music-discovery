@@ -1,0 +1,70 @@
+{
+  "playlists": [
+    {
+      "name": "Feel-Good Contemporary Pop",
+      "description": "Upbeat and modern pop tracks that bring a bright, energetic vibe perfect for uplifting moments and celebrations.",
+      "track_ids": [
+        "3qXOcbRVwKySRfN0k6BDrf",
+        "6AX3i1TluzbvpJpKrY7NoD",
+        "3H6xZgwRZx8McVUJzmMxWe",
+        "0aPaGIX2QIMAH5SMp0VEMe",
+        "5ViLKrbyL3HD6wsq3AB9eI",
+        "3sTpgVvp9dotoynnzRUuaS",
+        "03mMSLEJCPoGJwQhHpN5y0"
+      ]
+    },
+    {
+      "name": "Timeless Rock Energy",
+      "description": "Classic rock anthems loaded with raw energy, iconic riffs, and nostalgic vibes from the golden rock era.",
+      "track_ids": [
+        "43DeSV93pJPT4lCZaWZ6b1",
+        "7wfMo45fLnq1fnmghB5388",
+        "7b4yGtR0rujvLi5EBfKKJ2",
+        "76TZCvJ8GitQ2FA1q5dKu0",
+        "0aPaGIX2QIMAH5SMp0VEMe"
+      ]
+    },
+    {
+      "name": "Mellow Soul & Pop Intimacy",
+      "description": "Soft, soulful, and intimate songs that blend pop sensibilities with emotional depth and smooth vocals.",
+      "track_ids": [
+        "3Kkjo3cT83cw09VJyrLNwX",
+        "1qbmS6ep2hbBRaEZFpn7BX",
+        "273QnyCvJB65rScHJ1nPZb",
+        "6QTPacyXkZWG9FMwq6L1hJ"
+      ]
+    },
+    {
+      "name": "Dreamy & Atmospheric Slowburn",
+      "description": "Ambient, folk, and dreamlike soundscapes creating a reflective, calm, and immersive listening journey.",
+      "track_ids": [
+        "7yI9Gi86ONcgYA2xX4UMSJ",
+        "4csSjpkgRI06CpVeYfIjwM",
+        "72a6fDHInbEFXkWFqSA8vl",
+        "2X485T9Z5Ly0xyaghN73ed",
+        "2bcvooA6HEmVUneEGJnNZD"
+      ]
+    },
+    {
+      "name": "Modern Beat and Urban Flow",
+      "description": "Groovy urban tracks with contemporary hip hop, trap, and reggaeton beats for rhythmic, danceable vibes.",
+      "track_ids": [
+        "6CdV33i2ztlvFheXGz4Huc",
+        "6J5kc12BW5HuP3d7C3vvx8",
+        "5jHmo8b3is4dxbBQ7UD71h",
+        "7AleqJvqrVBeQitkWntUUc"
+      ]
+    },
+    {
+      "name": "Eclectic Global & Experimental",
+      "description": "Diverse and offbeat sounds including underground, post-punk, neoperreo, and international flavors for curious ears.",
+      "track_ids": [
+        "5gO7yUyC3y5QtFs0t5jZpo",
+        "3e4EFbKbdLvnW42xGB6tIx",
+        "0OXUqgdMVTNGgV0LJ8irvP",
+        "5OHlXvKAyootcHl4SEsurl",
+        "0HOPH3OrEmGDfmdzgIYvEU"
+      ]
+    }
+  ]
+}

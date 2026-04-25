@@ -1,0 +1,77 @@
+{
+  "playlists": [
+    {
+      "name": "Sunlit Indie Journeys",
+      "description": "A serene mix of ambient folk and indie sounds with a dreamy, introspective mood perfect for reflective afternoons and peaceful moments.",
+      "cover_prompt": "soft morning light through translucent curtains, warm beige tones, calm and cozy atmosphere",
+      "track_ids": [
+        "7gvh80lWlcPBsbctsWoIBJ",
+        "7yI9Gi86ONcgYA2xX4UMSJ",
+        "72a6fDHInbEFXkWFqSA8vl",
+        "2X485T9Z5Ly0xyaghN73ed",
+        "2cRYvcyWfz7jieYIBkI7JR"
+      ]
+    },
+    {
+      "name": "Electric Night Anthems",
+      "description": "High-energy electronic and dance tracks that pump up the vibe for late night parties or energetic sessions, filled with big room and tropical house beats.",
+      "cover_prompt": "neon lights reflecting on wet street, vibrant blue and pink tones, urban nightlife energy",
+      "track_ids": [
+        "3MUFebos5drIwrUHxUorhP",
+        "6sonAwZ8ruHZVzdAwDYsfk",
+        "3H6xZgwRZx8McVUJzmMxWe",
+        "5Hp4xFihdOE2dmDzxWcBFb",
+        "1JKo6V7VgO6MM2uj7iVkHh",
+        "5aIVCx5tnk0ntmdiinnYvw"
+      ]
+    },
+    {
+      "name": "Golden Era Rock Classics",
+      "description": "Timeless classic rock anthems with energetic guitars and memorable riffs, perfect for a nostalgic road trip or a throwback chill session.",
+      "cover_prompt": "golden sunset highway drive, warm orange and red tones, vintage car silhouette",
+      "track_ids": [
+        "43DeSV93pJPT4lCZaWZ6b1",
+        "7b4yGtR0rujvLi5EBfKKJ2",
+        "7wfMo45fLnq1fnmghB5388",
+        "76TZCvJ8GitQ2FA1q5dKu0",
+        "0aPaGIX2QIMAH5SMp0VEMe"
+      ]
+    },
+    {
+      "name": "Velvet Soul & Heartfelt Pop",
+      "description": "Smooth pop soul tunes and soft, emotional pop melodies filled with vulnerability and warmth, perfect for intimate evenings or calming moments.",
+      "cover_prompt": "soft pink and lavender gradient, subtle glowing orbs, warm and inviting mood",
+      "track_ids": [
+        "3Vd4fHzwS6pBS3muymjiDi",
+        "1qbmS6ep2hbBRaEZFpn7BX",
+        "3Kkjo3cT83cw09VJyrLNwX",
+        "273QnyCvJB65rScHJ1nPZb"
+      ]
+    },
+    {
+      "name": "Urban Flow & Modern Vibes",
+      "description": "A fresh selection of contemporary urban, hip hop, reggaeton, and afrobeat tracks with varied rhythms and vibrant energy for a confident and modern listening mood.",
+      "cover_prompt": "colorful city murals under sunset light, dynamic shapes, youthful and bold style",
+      "track_ids": [
+        "5jHmo8b3is4dxbBQ7UD71h",
+        "0kfLiQlWdQJLCp5ogjEPGl",
+        "6J5kc12BW5HuP3d7C3vvx8",
+        "6RX5iL93VZ5fKmyvNXvF1r",
+        "5OhjXvKAyootcHl4SEsurl",
+        "6CdV33i2ztlvFheXGz4Huc"
+      ]
+    },
+    {
+      "name": "Soft Reflections & Tender Ballads",
+      "description": "Gentle, heartfelt ballads and soft pop gems focusing on emotional narration and soothing melodies, ideal for quiet evenings or moments of deep thought.",
+      "cover_prompt": "rainy windowpane with soft golden reflections, muted cool tones, melancholic warmth",
+      "track_ids": [
+        "3Kkjo3cT83cw09VJyrLNwX",
+        "2bcvooA6HEmVUneEGJnNZD",
+        "6QTPacyXkZWG9FMwq6L1hJ",
+        "03mMSLEJCPoGJwQhHpN5y0",
+        "6sonAwZ8ruHZVzdAwDYsfk"
+      ]
+    }
+  ]
+}

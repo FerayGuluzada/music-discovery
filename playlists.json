@@ -1,0 +1,78 @@
+{
+  "playlists": [
+    {
+      "name": "Modern Pop Glow",
+      "description": "A vibrant and catchy collection of contemporary pop tunes featuring energetic beats, heartfelt vocals, and polished production from the mid-2010s to the mid-2020s, perfect for uplifting moods and everyday listening.",
+      "cover_prompt": "bright city skyline at dusk, glowing lights, warm tones, polished modern aesthetic",
+      "track_ids": [
+        "3qXOcbRVwKySRfN0k6BDrf",
+        "6AX3i1TluzbvpJpKrY7NoD",
+        "6sonAwZ8ruHZVzdAwDYsfk",
+        "3Vd4fHzwS6pBS3muymjiDi",
+        "6CdV33i2ztlvFheXGz4Huc",
+        "0HOPH3OrEmGDfmdzgIYvEU",
+        "3xClevycpBON8bkyxFbAna",
+        "3H6xZgwRZx8McVUJzmMxWe",
+        "3YB3dT8zhaBxDTXlggRqh6",
+        "1qbmS6ep2hbBRaEZFpn7BX",
+        "3f7tDOrVlqeyqIvanQuSbw",
+        "3MUFebos5drIwrUHxUorhP",
+        "0aPaGIX2QIMAH5SMp0VEMe"
+      ]
+    },
+    {
+      "name": "Soulful & Soft Reflections",
+      "description": "This playlist offers a tender mix of soft pop, pop soul, and smooth emotional ballads from modern voices to timeless classics, designed for intimate moments and reflective moods.",
+      "cover_prompt": "warm golden hour sunlight shining through translucent curtains, soft and soothing colors",
+      "track_ids": [
+        "3Kkjo3cT83cw09VJyrLNwX",
+        "273QnyCvJB65rScHJ1nPZb",
+        "3Vd4fHzwS6pBS3muymjiDi",
+        "3qXOcbRVwKySRfN0k6BDrf",
+        "3xClevycpBON8bkyxFbAna"
+      ]
+    },
+    {
+      "name": "Timeless Rock Drive",
+      "description": "Classic and hard rock anthems from the 70s to the 80s with driving guitars, powerful vocals, and unforgettable melodies for cruising or amp-up moments.",
+      "cover_prompt": "open highway at sunset, vintage car dashboard, warm oranges and reds, retro style",
+      "track_ids": [
+        "43DeSV93pJPT4lCZaWZ6b1",
+        "7b4yGtR0rujvLi5EBfKKJ2",
+        "7wfMo45fLnq1fnmghB5388"
+      ]
+    },
+    {
+      "name": "Dreamy Ambient Folk",
+      "description": "A soothing blend of ambient folk and dream pop with lush soundscapes and delicate vocals, perfect for relaxation, introspection, or peaceful background music.",
+      "cover_prompt": "misty forest at dawn, soft pastel colors, ethereal light rays, serene and calm atmosphere",
+      "track_ids": [
+        "7yI9Gi86ONcgYA2xX4UMSJ",
+        "2cRYvcyWfz7jieYIBkI7JR",
+        "4csSjpkgRI06CpVeYfIjwM"
+      ]
+    },
+    {
+      "name": "Urban Latin & Afro Vibes",
+      "description": "Pulsing rhythms from reggaeton, afrobeat, and urbano latino styles blending energetic flows and danceable beats for an immersive modern global party experience.",
+      "cover_prompt": "night city street with colorful neon lights, energetic crowd dancing, warm vibrant hues",
+      "track_ids": [
+        "6J5kc12BW5HuP3d7C3vvx8",
+        "5aIVCx5tnk0ntmdiinnYvw",
+        "1JKo6V7VgO6MM2uj7iVkHh",
+        "5OhjXvKAyootcHl4SEsurl"
+      ]
+    },
+    {
+      "name": "Indie Psychedelic & Introspective",
+      "description": "A textured and explorative collection of neo-psychedelic, indie, and haunting tunes with rich layers and introspective moods from the mid-2010s onward.",
+      "cover_prompt": "psychedelic swirls, twilight sky with stars, mystical forest shadows, deep blues and purples",
+      "track_ids": [
+        "2X485T9Z5Ly0xyaghN73ed",
+        "4WokNul6BcoBi5gm0R62mO",
+        "1Ame8XTX6QHY0l0ahqUhgv",
+        "5KZ4DC772dYcRBAizx0yYk"
+      ]
+    }
+  ]
+}

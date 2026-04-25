@@ -1,0 +1,83 @@
+{
+  "playlists": [
+    {
+      "name": "Sunlit Indie Reflections",
+      "description": "A calm and evocative mix of indie folk and soft alternative tracks, perfect for introspective moments and mellow afternoons.",
+      "cover_prompt": "soft golden sunlight through forest leaves, gentle and warm ambience, pastel colors, airy and natural",
+      "track_ids": [
+        "7gvh80lWlcPBsbctsWoIBJ",
+        "7K3Lc3TfSR14aTOjIH7TUj",
+        "7yI9Gi86ONcgYA2xX4UMSJ",
+        "2X485T9Z5Ly0xyaghN73ed",
+        "2UweSn50xGODUOhkKnjJf2",
+        "72a6fDHInbEFXkWFqSA8vl",
+        "2cRYvcyWfz7jieYIBkI7JR"
+      ]
+    },
+    {
+      "name": "Neon Nights & Dance Floors",
+      "description": "High energy EDM, tropical house, afro beats, and modern club sounds to keep the night alive and the party moving.",
+      "cover_prompt": "neon-lit urban nightclub, vibrant colorful lights, energetic crowd, dynamic and modern vibes",
+      "track_ids": [
+        "3MUFebos5drIwrUHxUorhP",
+        "6sonAwZ8ruHZVzdAwDYsfk",
+        "1JKo6V7VgO6MM2uj7iVkHh",
+        "5aIVCx5tnk0ntmdiinnYvw",
+        "5Hp4xFihdOE2dmDzxWcBFb",
+        "6AX3i1TluzbvpJpKrY7NoD",
+        "3H6xZgwRZx8McVUJzmMxWe",
+        "6J5kc12BW5HuP3d7C3vvx8",
+        "6CdV33i2ztlvFheXGz4Huc"
+      ]
+    },
+    {
+      "name": "Golden Era Rock Anthems",
+      "description": "Classic and timeless rock tracks with guitars and unforgettable energy from the 70s and 80s, capturing the spirit of rock's glory days.",
+      "cover_prompt": "vintage concert stage with dramatic orange-red lighting, roaring crowd shadows, retro rock vibe",
+      "track_ids": [
+        "43DeSV93pJPT4lCZaWZ6b1",
+        "7b4yGtR0rujvLi5EBfKKJ2",
+        "7wfMo45fLnq1fnmghB5388",
+        "0aPaGIX2QIMAH5SMp0VEMe"
+      ]
+    },
+    {
+      "name": "Late Night Soul & Vulnerability",
+      "description": "Heartfelt and soulful tracks with emotional depth, blending modern pop soul and soft r&b for late night mood-setting.",
+      "cover_prompt": "dimly lit room with soft shadows, warm lamp glows, intimate and moody atmosphere",
+      "track_ids": [
+        "3Vd4fHzwS6pBS3muymjiDi",
+        "1qbmS6ep2hbBRaEZFpn7BX",
+        "4PMqSO5qyjpvzhlLI5GnID",
+        "3Kkjo3cT83cw09VJyrLNwX",
+        "273QnyCvJB65rScHJ1nPZb"
+      ]
+    },
+    {
+      "name": "Eclectic Modern Pop Vibes",
+      "description": "A diverse mix of fresh, catchy modern pop tracks spanning different moods and artists, ideal for uplifting everyday moments.",
+      "cover_prompt": "bright pastel urban street scene in daytime, clean lines, playful and fresh aesthetic",
+      "track_ids": [
+        "6AX3i1TluzbvpJpKrY7NoD",
+        "3qXOcbRVwKySRfN0k6BDrf",
+        "3H6xZgwRZx8McVUJzmMxWe",
+        "0aPaGIX2QIMAH5SMp0VEMe",
+        "0zTcYZot5zfBwOQkdv02ls",
+        "5OhjXvKAyootcHl4SEsurl",
+        "4uX1pkSuSidzJxT4eWL7x1",
+        "6CdV33i2ztlvFheXGz4Huc",
+        "03mMSLEJCPoGJwQhHpN5y0"
+      ]
+    },
+    {
+      "name": "Dreamy & Atmospheric Escapes",
+      "description": "Ethereal and textured soundscapes blending dream pop, shoegaze, and ambient folk for immersive listening experiences.",
+      "cover_prompt": "misty twilight with blurred city lights, soft blue and purple hues, dreamy and surreal",
+      "track_ids": [
+        "4csSjpkgRI06CpVeYfIjwM",
+        "7yI9Gi86ONcgYA2xX4UMSJ",
+        "2cRYvcyWfz7jieYIBkI7JR"
+      ]
+    }
+  ]
+}

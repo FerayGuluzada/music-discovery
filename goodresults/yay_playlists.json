@@ -1,0 +1,76 @@
+{
+  "playlists": [
+    {
+      "name": "Effortless Soul & Velvet Voices",
+      "description": "Smooth pop-soul vibes blending modern warmth with emotional depth, perfect for a chill yet intimate listening session.",
+      "track_ids": [
+        "3Vd4fHzwS6pBS3muymjiDi",
+        "1qbmS6ep2hbBRaEZFpn7BX",
+        "3Kkjo3cT83cw09VJyrLNwX",
+        "273QnyCvJB65rScHJ1nPZb"
+      ]
+    },
+    {
+      "name": "Golden Era Rock & Heartfelt Anthems",
+      "description": "Classic rock staples and timeless folk-infused tunes that bring raw emotion and enduring energy for reflective moments.",
+      "track_ids": [
+        "43DeSV93pJPT4lCZaWZ6b1",
+        "7b4yGtR0rujvLi5EBfKKJ2",
+        "7wfMo45fLnq1fnmghB5388",
+        "76TZCvJ8GitQ2FA1q5dKu0",
+        "2bcvooA6HEmVUneEGJnNZD"
+      ]
+    },
+    {
+      "name": "Electronic Energy & Modern Pop Pulse",
+      "description": "Upbeat contemporary EDM and pop tracks full of vibrant energy and catchy rhythms, perfect for high-energy moments and celebrations.",
+      "track_ids": [
+        "3MUFebos5drIwrUHxUorhP",
+        "6AX3i1TluzbvpJpKrY7NoD",
+        "3H6xZgwRZx8McVUJzmMxWe",
+        "0aPaGIX2QIMAH5SMp0VEMe",
+        "3qXOcbRVwKySRfN0k6BDrf",
+        "3xClevycpBON8bkyxFbAna"
+      ]
+    },
+    {
+      "name": "Dreamy Indie & Reflective Folk",
+      "description": "Soft, ethereal indie folk and dream pop tracks that create a calm, introspective atmosphere suitable for quiet evenings or thoughtful moments.",
+      "track_ids": [
+        "7yI9Gi86ONcgYA2xX4UMSJ",
+        "2X485T9Z5Ly0xyaghN73ed",
+        "72a6fDHInbEFXkWFqSA8vl",
+        "4csSjpkgRI06CpVeYfIjwM"
+      ]
+    },
+    {
+      "name": "Fresh Urban Beats & Latin Flavors",
+      "description": "Rhythmic hip hop, reggaeton, and nu-perreo beats blending urban edge with vibrant Latin energy, perfect for energetic and dynamic vibes.",
+      "track_ids": [
+        "6J5kc12BW5HuP3d7C3vvx8",
+        "5jHmo8b3is4dxbBQ7UD71h",
+        "7AleqJvqrVBeQitkWntUUc",
+        "3e4EFbKbdLvnW42xGB6tIx"
+      ]
+    },
+    {
+      "name": "Moody Waves & Introspective Shadows",
+      "description": "Darkwave and post-punk infused tracks with cold, introspective moods ideal for late-night listening and thoughtful reflection.",
+      "track_ids": [
+        "5gO7yUyC3y5QtFs0t5jZpo",
+        "4PMqSO5qyjpvzhlLI5GnID",
+        "4WokNul6BcoBi5gm0R62mO"
+      ]
+    },
+    {
+      "name": "Pop Vibes with a Touch of Nostalgia",
+      "description": "Bright and catchy pop tunes, with some nostalgic elements, suited for feel-good days and easy listening.",
+      "track_ids": [
+        "6QTPacyXkZWG9FMwq6L1hJ",
+        "03mMSLEJCPoGJwQhHpN5y0",
+        "0zTcYZot5zfBwOQkdv02ls",
+        "7AleqJvqrVBeQitkWntUUc"
+      ]
+    }
+  ]
+}
